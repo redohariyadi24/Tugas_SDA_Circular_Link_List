@@ -30,7 +30,7 @@ int main()
     double_list dl;
     while (1)
     {
-        cout<<endl<<"\n**** Single Linked List ****"<<endl;        
+        cout<<endl<<"\n**** Double Linked List ****"<<endl;        
         cout<<"1.Buat List"<<endl;
         cout<<"2.Tambahkan Data Baru"<<endl;
         cout<<"3.Tambahkan Data Baru setelah elemen tertentu"<<endl;
