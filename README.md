@@ -1,4 +1,4 @@
-# Tugas_SDA_Circular_Link_List
+# Tugas_SDA_Double_Link_List
 Nama : Redo Hariyadi
 
 NPM : G1A021034
